@@ -1,0 +1,2 @@
+# Pokedex
+Searchable pokedex.
